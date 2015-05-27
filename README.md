@@ -21,9 +21,9 @@ maven可以自动生成eclipse需要的配置信息，然后导入到你的eclip
 
     mvn -Dwtpversion=1.0 eclipse:eclipse 
     
-maven可以自动生成InterJidea需要的配置信息，然后导入到你的eclipse中就可以了。<br />
-    
-    mvn idea:idea 
+maven可以自动生成Intellij IDEA需要的配置信息，然后导入到你的eclipse中就可以了。<br />
+
+    mvn idea:idea
             
 如果你的IDE未能找到M2_REPO你还需要做一些工作。<br />
 
